@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	display:flex;
+	justify-content:center;
+}
+#animal-photos{
+	background-color:#444444;
+	width:89%;
+}
+h1{
+	color:white;
+	text-align:center;
+}
+img{
+	width:170px;
+	margin:9px;
+	border-radius:15px;
+}
